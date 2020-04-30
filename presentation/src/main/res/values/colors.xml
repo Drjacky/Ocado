@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/ocado_light_green</color>
+    <color name="colorPrimaryDark">#@color/ocado_dark_green</color>
+    <color name="colorAccent">@color/white</color>
+
+    <color name="ocado_dark_green">#9FA500</color>
+    <color name="ocado_light_green">#BCC826</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray">#757575</color>
+    <color name="red">#FF0000</color>
+</resources>
